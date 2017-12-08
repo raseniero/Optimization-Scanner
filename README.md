@@ -42,6 +42,6 @@ Below are the steps on how to install and this module.
 
 ## Supports
 + For support please email the author or [create an issue](https://github.com/raseniero/Optimization-Scanner/issues/new).
-+ Tested on Sitecore CMS 8.4 Update 4.
++ Tested on Sitecore CMS 8.2 Update 4.
 
 THIS MODULE IS PROVIDED ON AN "AS IS" BASIS, WITHOUT SUPPORT, WARRANTIES OR CONDITIONS OF ANY KIND.
