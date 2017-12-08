@@ -19,9 +19,15 @@
 
 4. Final Result will identify your Customer Experience Maturity Model Level in Sitecore.
 
+5. Result A.
+
 ![image](https://user-images.githubusercontent.com/2329372/33785950-31d5acfc-dca2-11e7-847c-2cbffc533e34.png)
 
+6. Result B.
+
 ![image](https://user-images.githubusercontent.com/2329372/33786332-b5192b56-dca3-11e7-9a2f-971dbb3725e3.png)
+
+7. End.
 
 ## Supports
 + For support please email the author or [create an issue](https://github.com/raseniero/Optimization-Scanner/issues/new).

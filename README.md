@@ -40,6 +40,9 @@ Below are the steps on how to install and this module.
 
 9. End
 
+## Demonstration 
+If you want to follow a step-by-step demo please see [Demo page](https://github.com/raseniero/Optimization-Scanner/blob/master/Demo.md).
+
 ## Supports
 + For support please email the author or [create an issue](https://github.com/raseniero/Optimization-Scanner/issues/new).
 + Tested on Sitecore CMS 8.2 Update 4.
